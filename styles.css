@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+
+ul{
+    display: flex;
+    list-style: none;
+    background-color: black;
+    justify-content: center;
+   
+}
+ul li a {
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+   
+  }
+  main {
+    display:flexbox;
+    justify-content: center;
+    padding: 20px;
+    margin: 20px;
+  }
