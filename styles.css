@@ -1,37 +1,36 @@
-
 /* Your CSS Code here. */
 
-ul{
-    display: flex;
-    list-style: none;
-    background-color: black;
-    justify-content: center;
-    height: 40px;
-    justify-content: space-around;
+ul {
+  display: flex;
+  list-style: none;
+  background-color: black;
+  justify-content: center;
+  height: 40px;
+  justify-content: space-around;
   align-items: center;
-
-   
+}
+#hd {
+  text-align: center;
 }
 ul li a {
-    padding: 10px;
-    text-decoration: none;
-    color: white;
-    font-size: larger;
-    font-weight: 400;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   
-  }
-  main {
-    display:flexbox;
-    justify-content: center;
-    padding: 20px;
-    margin: 20px;
-  }
-  .ved{
-    display: block;
-    margin-top: 10px;
+  padding: 10px;
+  text-decoration: none;
+  color: white;
+  font-size: larger;
+  font-weight: 400;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+main {
+  display: flexbox;
+  justify-content: center;
+  padding: 20px;
+  margin: 20px;
+}
+.ved {
+  display: block;
+  margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 10px;
   width: 40%;
-  }
+}
